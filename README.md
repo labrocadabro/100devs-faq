@@ -87,7 +87,7 @@ Yes. Check in for each class as you watch it. It's one of the requirements that 
 
 ## I'm doing all the homework, but should I submit it? Will anyone check it?
 
-Yes, you should submit it. No one is going to look at it and give you feedback, but as with checking in, it's one of the requirements for verification down the line. Do keep in mind that while your homework won't be checked when you submit it, there's a good chance Leon will look at if you ask for verification. 
+Yes, you should submit it. No one is going to look at it and give you feedback, but as with checking in, it's one of the requirements for verification down the line. Do keep in mind that while your homework won't be checked when you submit it, there's a good chance Leon will look at it if you ask for verification. 
 
 
 ## I need solutions for XX homework. Where can I find them?
