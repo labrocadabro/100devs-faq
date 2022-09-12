@@ -48,9 +48,7 @@ The classes are on [Youtube](https://www.youtube.com/playlist?list=PLBf-QcbaigsJ
 
 ![100Devs Follow Along Screenshot](follow-along.png)
 
-- [100 Devs Homework Checklist](https://docs.google.com/document/d/177Ls9QS5ryjPBi82cjDnbtse5Of0RFl8/edit): A Google Docs version. No links to materials, but does have classes and homework. As of Sept 12, completely up to date and includes time-sensitive Huntober deadlines.
-![100 Devs Homework Checklist](homework-checklist.png)
-- [100 Devs Homework Checklist](https://docs.google.com/document/d/177Ls9QS5ryjPBi82cjDnbtse5Of0RFl8/edit): A Google Docs verison. No links to materials, but does have classes and homework. As of Sept 12, 2022: completely up to date and includes time-sensitive Huntober deadlines.
+- [100 Devs Homework Checklist](https://docs.google.com/document/d/177Ls9QS5ryjPBi82cjDnbtse5Of0RFl8/edit): A Google Docs version. No links to materials, but does have classes and homework. As of Sept 12, 2022: completely up to date and includes time-sensitive Huntober deadlines.
 
 ![100 Devs Homework Checklist Screenshot](homework-checklist.png)
 
