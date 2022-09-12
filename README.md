@@ -61,6 +61,18 @@ Some classes are not on Youtube. This is because they were project or networking
 
 ** List of specific classes that are missing and why **
 
+## I'm stuck on the readings! How do I get through them?
+
+Some of the readings can be dense and everything you absolutely need to know is covered in class, but Leon assigns everything for a reason. The reading helps you get some familiarity with the concepts before Leon teaches them. And probably more importantly, on the job you will probably be required to read documentation, so you do need to get used to parsing technical language. 
+
+However, that doesn't mean you need to understand every single point that's covered. Read to get a basic understanding and move on. And if you are getting completely derailed by the reading and you've been stuck on it for weeks, move on and make a point to revisit it later when you're more familiar with the concepts.
+
+## I'm stuck on floats! Can I just use Flexbox and Grid instead?
+
+Similar to the readings, Leon assigns everything for a reason. There is a LOT of legacy code out there still using floats, because Flexbox and Grid weren't always well supported. You really should have at least a basic understanding of how they work.
+
+And similar to the readings, don't spend too much time on floats. You probably won't actually use them all that much, and if you're stuck to the point you can't move on, it's probably better to take another look at them after you've learned more.
+
 ## How do I put my Codewars katas on Github?
 
 Create a private repository. The most common method is a to create a new file for each kata you complete, and paste your solution in it when you complete the kata.
