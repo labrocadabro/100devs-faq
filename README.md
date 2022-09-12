@@ -117,7 +117,7 @@ These are the dedicated classes, but not the only ones that cover job-related to
 Leon annouced a fresh start in class 32, so anything you missed before then, you don't have to go back and do. However keep in mind that: 
 
 1. the course is completly free and takes a significant amount of effort on Leon's part
-2. he asks you to check-in to help increase the reach of the course
+2. he asks you to check in to help increase the reach of the course
 3. the homework is your skills training, so even if you don't submit it you should still do it
 
 
@@ -134,7 +134,7 @@ Some classes aren't on Youtube. This is because they weren't regular classes. If
 
 ## I'm stuck on the readings! How do I get through them?
 
-Some of the readings can be dense and everything you absolutely need to know is covered in class, but Leon assigns everything for a reason. The reading helps you get some familiarity with the concepts before Leon teaches them. And probably more importantly, on the job you will probably be required to read documentation, so you do need to get used to parsing technical language. 
+Some of the readings can be dense and everything you absolutely need to know is covered in class, but Leon assigns everything for a reason. The reading helps you get some familiarity with the concepts before Leon teaches them. And probably more importantly, on the job you will be required to read documentation, so you do need to get used to parsing technical language. 
 
 However, that doesn't mean you need to understand every single point that's covered. Read to get a basic understanding and move on. And if you're getting completely derailed by the reading and you've been stuck on it for weeks, move on and make a note to revisit it later when you're more familiar with the concepts.
 
