@@ -41,15 +41,43 @@ Yes, you should submit it. No one is going to look at it and give you feedback, 
 
 ## I already know XX. Should I start from Class 1? Can I get verified if I don't do all the classes?
 
-There is value in starting from the beginning, even if you have some experience already, but it's not necessary. The choice is yours. You can still get verification if you don't do the early homework; Leon annouced a clean slate in class **3X**, so anything you missed before that will be forgiven.
+There is value in starting from the beginning, even if you have some experience already, but it's not necessary. The choice is yours. You can still get verification if you don't do the early homework; Leon annouced a clean slate in class ** 3X **, so anything you missed before that will be forgiven.
 
-If you are only looking for job hunting/freelancing advice, you can skip most of the classes **(list of job-focused classes)**. If you already know some topics well, you can skip the earlier classes. A popular entry point in that case is the [Javascript Super Review](). 
+If you are only looking for job hunting/freelancing advice, you can skip most of the classes ** (list of job-focused classes) **. If you already know some topics well, you can skip the earliest classes. A popular entry point in that case is the [Javascript Super Review](). 
 
 
 ## I missed some of the early check-ins or homework, do I need to go back and do them?
 
-Leon annouced a clean slate in class **3X**, so anything you missed before then, you don't have to go back and do. However keep in mind that: 
+Leon annouced a clean slate in class ** 3X **, so anything you missed before then, you don't have to go back and do. However keep in mind that: 
 
-1. the course is comeplete free and takes a significant amount of effort on Leon's part
+1. the course is completly free and takes a significant amount of effort on Leon's part
 2. he asks you to check-in to help increase the reach of the course
 3. the homework is your skills training
+
+
+## Where are the missing classes?
+
+Some classes are not on Youtube. This is because they were project or networking nights and no video was recorded. If you see that a class is missing, you can just move on to the next one; you haven't missed anything.
+
+** List of specific classes that are missing and why **
+
+## How do I put my Codewars katas on Github?
+
+Create a private repository. The most common method is a to create a new file for each kata you complete, and paste your solution in it when you complete the kata.
+
+My directory structure looks like this:
+
+![my codewars directory structure, organized by language then kyu](codewars-organization.png)
+
+Rufio also has a video on her [codewars workflow]().
+
+## I have old katas I didn't upload to Github. How do I backdate git commits?
+
+Rufio has two videos you can check out, one on her [entire codwars workflow]() and one on [how to backdate commits]().
+
+## How do I get Github green squares for private repositories?
+
+** TO DO **
+
+
+
