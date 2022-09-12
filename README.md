@@ -26,7 +26,7 @@ Welcome new 100Devs members! Getting started can be a little confusing, so I dec
 
 ## What is 100Devs?
 
-100Devs is a diverse and inclusive commmunity of 1000s of participants in a training program run by [Leon Noel](https://leonnoel.com/). It is 100% free and requires absolutely no previous technical experience. 
+100Devs is a diverse and inclusive community of 1000s of participants in a training program run by [Leon Noel](https://leonnoel.com/). It is 100% free and requires absolutely no previous technical experience. 
 
 As Leon says, 'this is not a tech bootcamp, this is a how to get a job bootcamp'. While the course does teach the necessary technical skills to ge a job as a full stack developer, it is unique because it also covers networking, resumes, job applications, the interview process, and freelancing. Even if you are already technically proficient but you are struggling to find a job, you will find value here.
 
