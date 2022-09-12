@@ -46,19 +46,19 @@ The classes are on [Youtube](https://www.youtube.com/playlist?list=PLBf-QcbaigsJ
 
 - [100Devs Follow Along](https://100devsfollowalong.netlify.app/): Class videos and links to slides and class/homework materials. Updates when the videos are uploaded on Youtube. As of Sept 12, 2022: up to date until class 47 (latest on Youtube).
 
-![100Devs Follow Along Screenshot](follow-along.png)
+![100Devs Follow Along Screenshot](./photos/follow-along.png)
 
 - [100 Devs Homework Checklist](https://docs.google.com/document/d/177Ls9QS5ryjPBi82cjDnbtse5Of0RFl8/edit): A Google Docs version. No links to materials, but does have classes and homework. As of Sept 12, 2022: completely up to date and includes time-sensitive Huntober deadlines.
 
-![100 Devs Homework Checklist Screenshot](homework-checklist.png)
+![100 Devs Homework Checklist Screenshot](./photos/homework-checklist.png)
 
 - [100 Devs Homework Tracker](https://labrocadabro.github.io/100devs-hw-tracker/): A web-based tool (made by me!) that focuses specifically on homework tracking. Contains links to relevant homework materials but no classes or class materials. As of Sept 12, 2022: completely up to date but does not include Huntober deadlines.
 
-![100 Devs Homework Tracker Screenshot](homework-tracker.png)
+![100 Devs Homework Tracker Screenshot](./photos/homework-tracker.png)
 
 - [Leon Stream Scripts](https://leonstreamscripts.herokuapp.com): searchable Youtube subtitles. Extremely useful when you remember something was mentioned but you forget which class. As of Sept 12, 2022: not up to date (class 41) but there's no alternative.
 
-![Leon Stream Scripts Screenshot](stream-scripts.png)
+![Leon Stream Scripts Screenshot](./photos/stream-scripts.png)
 
 And join the [Discord](https://leonnoel.com/discord)! There are so many people there willing to help with any questions you have, big or small.
 
@@ -152,7 +152,7 @@ Create a private repository just for Codewars. The most common method is a to cr
 
 For example, my directory structure looks like this:
 
-![my codewars directory structure, organized by language then kyu](codewars-organization.png)
+![my codewars directory structure, organized by language then kyu](./photos/codewars-organization.png)
 
 Rufio (a member of the Stream Team) also has a video on her [codewars workflow](https://www.youtube.com/watch?v=HazQz4qosR4).
 
@@ -166,9 +166,9 @@ Rufio has two videos you can check out, one on her [entire codwars workflow](htt
 
 Go to your profile and find your contribution graph. In the top right, there's a dropdown that says 'Contribution settings'. From there make sure 'Private Contributions' is checked.
 
-![Contribution Graph](contribution-graph.png)
+![Contribution Graph](./photos/contribution-graph.png)
 
-![Private Contributions](private-contributions.png)
+![Private Contributions](./photos/private-contributions.png)
 
 
 
