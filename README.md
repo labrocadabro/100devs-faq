@@ -33,11 +33,11 @@ As Leon says, 'this is not a tech bootcamp, this is a how to get a job bootcamp'
 
 ## How does it work?
 
-Live classes are streamed on [Twitch](https://www.twitch.tv/learnwithleon) Tuesdays and Thursdays and office hours (review classes) are streamed on Sundays. Recordings of all classes are available on [Youtube](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S), however office hours (which are not essential) are only on Twitch and are deleted after 60 days. Follow along materials are available on the [Discord](https://leonnoel.com/discord) and there are some community-made resources as well (see below). Homework is assigned at the end of each class, some of which should be submitted.
+Live classes are streamed on [Twitch](https://www.twitch.tv/learnwithleon) Tuesdays and Thursdays and office hours (review classes) are streamed on Sundays. Recordings of all classes are available on [Youtube](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S), however, office hours (which are not essential) are only on Twitch and are deleted after 60 days. Follow along materials are available on the [Discord](https://leonnoel.com/discord) and there are some community-made resources as well (see below). Homework is assigned at the end of each class, some of which should be submitted.
 
 The material is self-paced. Although it's called the Catchup Crew, your goal is not to catch up to live classes. This is a significant time investment and you should give yourself the time and space to complete it according to your schedule and your constraints. 
 
-The material is also self-directed. You get out what you put in, and that means you need to have a certain amount of focus and self-motivation to be successful. Having said that, we are commmunity-taught and community-supported. Join the [Discord](https://leonnoel.com/discord), find [#100Devs on Twitter](https://twitter.com/search?q=%23100Devs). If you're strugging, if you need help, if there's something you can't figure out, ask! There is always someone around who's willing to lend a hand.
+The material is also self-directed. You get out what you put in, and that means you need to have a certain amount of focus and self-motivation to be successful. Having said that, we are community-taught and community-supported. Join the [Discord](https://leonnoel.com/discord), find [#100Devs on Twitter](https://twitter.com/search?q=%23100Devs). If you're struggling, if you need help, if there's something you can't figure out, ask! There is always someone around who's willing to lend a hand.
 
 
 ## How do I get started?
@@ -48,6 +48,8 @@ The classes are on [Youtube](https://www.youtube.com/playlist?list=PLBf-QcbaigsJ
 
 ![100Devs Follow Along Screenshot](follow-along.png)
 
+- [100 Devs Homework Checklist](https://docs.google.com/document/d/177Ls9QS5ryjPBi82cjDnbtse5Of0RFl8/edit): A Google Docs version. No links to materials, but does have classes and homework. As of Sept 12, completely up to date and includes time-sensitive Huntober deadlines.
+![100 Devs Homework Checklist](homework-checklist.png)
 - [100 Devs Homework Checklist](https://docs.google.com/document/d/177Ls9QS5ryjPBi82cjDnbtse5Of0RFl8/edit): A Google Docs verison. No links to materials, but does have classes and homework. As of Sept 12, 2022: completely up to date and includes time-sensitive Huntober deadlines.
 
 ![100 Devs Homework Checklist Screenshot](homework-checklist.png)
@@ -114,10 +116,10 @@ These are the dedicated classes, but not the only ones that cover job-related to
 
 ## I missed some of the early check-ins or homework, do I need to go back and do them?
 
-Leon annouced a fresh start in class 32, so anything you missed before then, you don't have to go back and do. However keep in mind that: 
+Leon announced a fresh start in class 32, so anything you missed before then, you don't have to go back and do. However keep in mind that: 
 
-1. the course is completly free and takes a significant amount of effort on Leon's part
-2. he asks you to check in to help increase the reach of the course
+1. the course is completely free and takes a significant amount of effort on Leon's part
+2. he asks you to check-in to help increase the reach of the course
 3. the homework is your skills training, so even if you don't submit it you should still do it
 
 
