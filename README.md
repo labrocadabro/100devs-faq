@@ -38,6 +38,11 @@ And join the [Discord](https://leonnoel.com/discord)! There are so many people t
 
 The first cohort was conducted in 2021; we are currently nearing the end of the second cohort. However, you're not too late! New people are joining every day, and Leon is working on systems to ensure that we can complete the course even after live classes have ended. As far as the next cohort goes, Leon has said he would like to do another, but nothing has been confirmed yet.
 
+
+## How do I join a house?
+
+Originally there were houses for different levels of commitment to the program, but this cohort exploded in popularity and the houses were dropped early on. 
+
 ## How do I find an accountability buddy or study group?
 
 Check the Catchup Crew channel on Discord, every 2-4 weeks someone makes a new study group for members who have recently joined. If there's no recent group, go ahead and make one and invite others to join!
