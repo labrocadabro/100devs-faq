@@ -28,7 +28,7 @@ Welcome new 100Devs members! Getting started can be a little confusing, so I dec
 
 100Devs is a diverse and inclusive community of 1000s of participants in a training program run by [Leon Noel](https://leonnoel.com/). It is 100% free and requires absolutely no previous technical experience. 
 
-As Leon says, 'this is not a tech bootcamp, this is a how to get a job bootcamp'. While the course does teach the necessary technical skills to ge a job as a full stack developer, it is unique because it also covers networking, resumes, job applications, the interview process, and freelancing. Even if you are already technically proficient but you are struggling to find a job, you will find value here.
+As Leon says, 'this is not a tech bootcamp, this is a how to get a job bootcamp'. While the course does teach the necessary technical skills to ge a job as a full stack developer, it's unique because it also covers networking, resumes, job applications, the interview process, and freelancing. Even if you're already technically proficient but you're struggling to find a job, you'll find value here.
 
 
 ## How does it work?
@@ -42,19 +42,23 @@ The material is also self-directed. You get out what you put in, and that means 
 
 ## How do I get started?
 
-The classes are on [Youtube](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S) and the follow along materials and homework assignments are available on the [Discord](https://leonnoel.com/discord). Tracking the classes and materials from Discord can be difficult, though, so I would recommend you check out these community-made resources to make the process easier (there are a few others but these are the ones that are up to date):
+The classes are on [Youtube](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S) and the follow along materials and homework assignments are available on the [Discord](https://leonnoel.com/discord). Tracking the classes and materials from Discord can be difficult, though, so I recommend you check out these community-made resources to make the process easier (there are a few others but these are the ones that are up to date):
 
-- [100Devs Follow Along](https://100devsfollowalong.netlify.app/): Class videos and links to slides and class/homework materials. Updates when the videos are uploaded on Youtube. As of Sept 12, up to date until class 47 (latest on Youtube).
+- [100Devs Follow Along](https://100devsfollowalong.netlify.app/): Class videos and links to slides and class/homework materials. Updates when the videos are uploaded on Youtube. As of Sept 12, 2022: up to date until class 47 (latest on Youtube).
+
 ![100Devs Follow Along Screenshot](follow-along.png)
 
-- [100 Devs Homework Checklist](https://docs.google.com/document/d/177Ls9QS5ryjPBi82cjDnbtse5Of0RFl8/edit): A Google Docs verison. No links to materials, but does have classes and homework. As of Sept 12, completely up to date and includes time-sensitive Huntober deadlines.
-![100 Devs Homework Checklist](homework-checklist.png)
+- [100 Devs Homework Checklist](https://docs.google.com/document/d/177Ls9QS5ryjPBi82cjDnbtse5Of0RFl8/edit): A Google Docs verison. No links to materials, but does have classes and homework. As of Sept 12, 2022: completely up to date and includes time-sensitive Huntober deadlines.
 
-- [100 Devs Homework Tracker](https://labrocadabro.github.io/100devs-hw-tracker/): A web-based tool (made by me!) that focuses specifically on homework tracking. Contains links to relevant homework materials but no classes or class materials. As of Sept 12, completely up to date but does not include Huntober deadlines.
-![100 Devs Homework Tracker](homework-tracker.png)
+![100 Devs Homework Checklist Screenshot](homework-checklist.png)
 
-- [Leon Stream Scripts](https://leonstreamscripts.herokuapp.com): searchable Youtube subtitles. Extremely useful when you remember something was mentioned but you forget which class.
-![Leon Stream Scripts](stream-scripts.png)
+- [100 Devs Homework Tracker](https://labrocadabro.github.io/100devs-hw-tracker/): A web-based tool (made by me!) that focuses specifically on homework tracking. Contains links to relevant homework materials but no classes or class materials. As of Sept 12, 2022: completely up to date but does not include Huntober deadlines.
+
+![100 Devs Homework Tracker Screenshot](homework-tracker.png)
+
+- [Leon Stream Scripts](https://leonstreamscripts.herokuapp.com): searchable Youtube subtitles. Extremely useful when you remember something was mentioned but you forget which class. As of Sept 12, 2022: not up to date (class 41) but there's no alternative.
+
+![Leon Stream Scripts Screenshot](stream-scripts.png)
 
 And join the [Discord](https://leonnoel.com/discord)! There are so many people there willing to help with any questions you have, big or small.
 
