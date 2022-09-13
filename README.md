@@ -99,7 +99,7 @@ Most homework does not have provided solutions. If you build something and it lo
 
 I personally think it's worth starting from the beginning, even if you have some experience already. If you decide to start from the beginning but some material is familiar, you can watch classes on 1.5x or 2x, or skip sections you don't need. But it's not necessary to do so, the choice is yours. You can still get verification if you don't do the early homework; Leon annouced a clean slate in class 32, so anything you missed before that will be forgiven.
 
-If you already know some topics well, you can skip the earliest classes. A popular entry point in that case is the [Javascript Super Review](https://www.youtube.com/watch?v=AkXLGS57MS4) (class 18). 
+If you already know some topics well, you can skip the earliest classes. A popular entry point in that case is the [Javascript Super Review](https://www.youtube.com/watch?v=AkXLGS57MS4) (after class 18). 
 
 If you are only looking for job hunting/freelancing advice, you can skip most of the classes, but you won't be able to get verification. Classes relevant to job hunting:
 
