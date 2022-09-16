@@ -11,16 +11,18 @@ Welcome new 100Devs members! Getting started can be a little confusing, so I dec
 5. [How do I join a house?](#how-do-i-join-a-house)
 6. [How do I find an accountability buddy or study group?](#how-do-i-find-an-accountability-buddy-or-study-group)
 7. [Should I check in on Twitter for classes that happened months ago?](#should-i-check-in-on-twitter-for-classes-that-happened-months-ago)
-8. [I'm doing all the homework, but should I submit it? Will anyone check it?](#im-doing-all-the-homework-but-should-i-submit-it-will-anyone-check-it)
-9. [I need solutions for XX homework. Where can I find them?](#i-need-solutions-for-xx-homework-where-can-i-find-them)
-10. [I already know XX. Should I start from Class 1? Can I get verified if I don't do all the classes?](#i-already-know-xx-should-i-start-from-class-1-can-i-get-verified-if-i-dont-do-all-the-classes)
-11. [I missed some of the early check-ins or homework, do I need to go back and do them?](#i-missed-some-of-the-early-check-ins-or-homework-do-i-need-to-go-back-and-do-them)
-12. [Where are the missing classes?](#where-are-the-missing-classes)
-13. [I'm stuck on the readings! How do I get through them?](#im-stuck-on-the-readings-how-do-i-get-through-them)
-14. [I'm stuck on floats! Can I just use Flexbox and Grid instead?](#im-stuck-on-floats-can-i-just-use-flexbox-and-grid-instead)
-15. [How do I put my Codewars katas on Github?](#how-do-i-put-my-codewars-katas-on-github)
-16. [I have old katas I didn't upload to Github. How do I backdate git commits?](#i-have-old-katas-i-didnt-upload-to-github-how-do-i-backdate-git-commits)
-17. [How do I get Github green squares for private repositories?](#how-do-i-get-github-green-squares-for-private-repositories)
+8. [Where are the check-in links?](#where-are-the-check-in-links)
+9. [Are the office hours videos still avalable?](#are-the-office-hours-videos-still-avalable)
+10. [I'm doing all the homework, but should I submit it? Will anyone check it?](#im-doing-all-the-homework-but-should-i-submit-it-will-anyone-check-it)
+11. [I need solutions for XX homework. Where can I find them?](#i-need-solutions-for-xx-homework-where-can-i-find-them)
+12. [I already know XX. Should I start from Class 1? Can I get verified if I don't do all the classes?](#i-already-know-xx-should-i-start-from-class-1-can-i-get-verified-if-i-dont-do-all-the-classes)
+13. [I missed some of the early check-ins or homework, do I need to go back and do them?](#i-missed-some-of-the-early-check-ins-or-homework-do-i-need-to-go-back-and-do-them)
+14. [Where are the missing classes?](#where-are-the-missing-classes)
+15. [I'm stuck on the readings! How do I get through them?](#im-stuck-on-the-readings-how-do-i-get-through-them)
+16. [I'm stuck on floats! Can I just use Flexbox and Grid instead?](#im-stuck-on-floats-can-i-just-use-flexbox-and-grid-instead)
+17. [How do I put my Codewars katas on Github?](#how-do-i-put-my-codewars-katas-on-github)
+18. [I have old katas I didn't upload to Github. How do I backdate git commits?](#i-have-old-katas-i-didnt-upload-to-github-how-do-i-backdate-git-commits)
+19. [How do I get Github green squares for private repositories?](#how-do-i-get-github-green-squares-for-private-repositories)
 
 
 
@@ -83,6 +85,15 @@ There is also the [Catchup Crew Google Sheet](https://docs.google.com/spreadshee
 ## Should I check in on Twitter for classes that happened months ago?
 
 Yes. Check in for each class as you watch it. It's one of the requirements that will be checked when you're looking for work and you'd like a verification or reference from Leon.
+
+## Where are the check-in links?
+
+Currently the easiest way to find the check-in links is [this homework checklist](https://docs.google.com/document/d/177Ls9QS5ryjPBi82cjDnbtse5Of0RFl8/edit).
+
+
+## Are the office hours videos still avalable?
+
+The office hours videos are deleted from Twitch after 60 days, so most of them are no longer available. A 100Devs member in the catchup crew did make a partial (unlisted) Youtube playlist of office hours they downloaded from Twitch, but it doesn't start from the beginning of the cohort. You can find the link in the Catchup Resources thread in the Catchup Crew channel on Discord.
 
 
 ## I'm doing all the homework, but should I submit it? Will anyone check it?
