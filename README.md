@@ -46,19 +46,19 @@ The material is also self-directed. You get out what you put in, and that means 
 
 The classes are on [Youtube](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S) and the follow along materials and homework assignments are available on the [Discord](https://leonnoel.com/discord). Tracking the classes and materials from Discord can be difficult, though, so I recommend you check out these community-made resources to make the process easier (there are a few others but these are the ones that are up to date):
 
-- [100Devs Follow Along](https://100devsfollowalong.netlify.app/): Class videos and links to slides and class/homework materials. Updates when the videos are uploaded on Youtube. As of Sept 12, 2022: up to date until class 47 (latest on Youtube).
+- [100Devs Follow Along](https://100devsfollowalong.netlify.app/): Class videos and links to slides and class/homework materials. Updates when the videos are uploaded on Youtube. As of Sept 19, 2022: up to date until class 47 (latest on Youtube).
 
 ![100Devs Follow Along Screenshot](./photos/follow-along.png)
 
-- [100 Devs Homework Checklist](https://docs.google.com/document/d/177Ls9QS5ryjPBi82cjDnbtse5Of0RFl8/edit): A Google Docs version. No links to materials, but does have classes and homework. As of Sept 12, 2022: completely up to date and includes time-sensitive Huntober deadlines.
+- [100 Devs Homework Checklist](https://docs.google.com/document/d/177Ls9QS5ryjPBi82cjDnbtse5Of0RFl8/edit): A Google Docs version. No links to materials, but does have classes and homework. As of Sept 19, 2022: up to date to the latest class (55) and includes time-sensitive Huntober deadlines.
 
 ![100 Devs Homework Checklist Screenshot](./photos/homework-checklist.png)
 
-- [100 Devs Homework Tracker](https://labrocadabro.github.io/100devs-hw-tracker/): A web-based tool (made by me!) that focuses specifically on homework tracking. Contains links to relevant homework materials but no classes or class materials. As of Sept 12, 2022: completely up to date but does not include Huntober deadlines.
+- [100 Devs Homework Tracker](https://labrocadabro.github.io/100devs-hw-tracker/): A web-based tool (made by me!) that focuses specifically on homework tracking. Contains links to relevant homework materials but no classes or class materials. As of Sept 19, 2022: up to date to the latest class (55) but does not include Huntober deadlines.
 
 ![100 Devs Homework Tracker Screenshot](./photos/homework-tracker.png)
 
-- [Leon Stream Scripts](https://leonstreamscripts.herokuapp.com): searchable Youtube subtitles. Extremely useful when you remember something was mentioned but you forget which class. As of Sept 12, 2022: not up to date (class 41) but there's no alternative.
+- [Leon Stream Scripts](https://leonstreamscripts.herokuapp.com): searchable Youtube subtitles. Extremely useful when you remember something was mentioned but you forget which class. As of Sept 19, 2022: up to date to the latest Youtube class (47).
 
 ![Leon Stream Scripts Screenshot](./photos/stream-scripts.png)
 
