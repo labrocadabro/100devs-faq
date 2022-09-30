@@ -10,7 +10,7 @@ Welcome new 100Devs members! Getting started can be a little confusing, so I dec
 4. [Am I too late? Should I wait for the next cohort?](#am-i-too-late-should-i-wait-for-the-next-cohort)
 5. [How do I join a house?](#how-do-i-join-a-house)
 6. [How do I find an accountability buddy or study group?](#how-do-i-find-an-accountability-buddy-or-study-group)
-7. [How should I make my Anki cards? Is there any premade deck I can use?](#how-should-i-make-my-anki-cards-is-there-a-premade-deck-i-can-use)
+7. [How should I make my Anki cards? Is there any premade deck I can use?](#how-should-i-make-my-anki-cards-is-there-any-premade-deck-i-can-use)
 8. [Should I check in on Twitter for classes that happened months ago?](#should-i-check-in-on-twitter-for-classes-that-happened-months-ago)
 9. [Where are the check-in links?](#where-are-the-check-in-links)
 10. [Are the office hours videos still avalable?](#are-the-office-hours-videos-still-avalable)
