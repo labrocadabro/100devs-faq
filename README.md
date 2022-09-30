@@ -10,19 +10,20 @@ Welcome new 100Devs members! Getting started can be a little confusing, so I dec
 4. [Am I too late? Should I wait for the next cohort?](#am-i-too-late-should-i-wait-for-the-next-cohort)
 5. [How do I join a house?](#how-do-i-join-a-house)
 6. [How do I find an accountability buddy or study group?](#how-do-i-find-an-accountability-buddy-or-study-group)
-7. [Should I check in on Twitter for classes that happened months ago?](#should-i-check-in-on-twitter-for-classes-that-happened-months-ago)
-8. [Where are the check-in links?](#where-are-the-check-in-links)
-9. [Are the office hours videos still avalable?](#are-the-office-hours-videos-still-avalable)
-10. [I'm doing all the homework, but should I submit it? Will anyone check it?](#im-doing-all-the-homework-but-should-i-submit-it-will-anyone-check-it)
-11. [I need solutions for XX homework. Where can I find them?](#i-need-solutions-for-xx-homework-where-can-i-find-them)
-12. [I already know XX. Should I start from Class 1? Can I get verified if I don't do all the classes?](#i-already-know-xx-should-i-start-from-class-1-can-i-get-verified-if-i-dont-do-all-the-classes)
-13. [I missed some of the early check-ins or homework, do I need to go back and do them?](#i-missed-some-of-the-early-check-ins-or-homework-do-i-need-to-go-back-and-do-them)
-14. [Where are the missing classes?](#where-are-the-missing-classes)
-15. [I'm stuck on the readings! How do I get through them?](#im-stuck-on-the-readings-how-do-i-get-through-them)
-16. [I'm stuck on floats! Can I just use Flexbox and Grid instead?](#im-stuck-on-floats-can-i-just-use-flexbox-and-grid-instead)
-17. [How do I put my Codewars katas on Github?](#how-do-i-put-my-codewars-katas-on-github)
-18. [I have old katas I didn't upload to Github. How do I backdate git commits?](#i-have-old-katas-i-didnt-upload-to-github-how-do-i-backdate-git-commits)
-19. [How do I get Github green squares for private repositories?](#how-do-i-get-github-green-squares-for-private-repositories)
+7. [How should I make my Anki cards? Is there any premade deck I can use?](#how-should-i-make-my-anki-cards-is-there-a-premade-deck-i-can-use)
+8. [Should I check in on Twitter for classes that happened months ago?](#should-i-check-in-on-twitter-for-classes-that-happened-months-ago)
+9. [Where are the check-in links?](#where-are-the-check-in-links)
+10. [Are the office hours videos still avalable?](#are-the-office-hours-videos-still-avalable)
+11. [I'm doing all the homework, but should I submit it? Will anyone check it?](#im-doing-all-the-homework-but-should-i-submit-it-will-anyone-check-it)
+12. [I need solutions for XX homework. Where can I find them?](#i-need-solutions-for-xx-homework-where-can-i-find-them)
+13. [I already know XX. Should I start from Class 1? Can I get verified if I don't do all the classes?](#i-already-know-xx-should-i-start-from-class-1-can-i-get-verified-if-i-dont-do-all-the-classes)
+14. [I missed some of the early check-ins or homework, do I need to go back and do them?](#i-missed-some-of-the-early-check-ins-or-homework-do-i-need-to-go-back-and-do-them)
+15. [Where are the missing classes?](#where-are-the-missing-classes)
+16. [I'm stuck on the readings! How do I get through them?](#im-stuck-on-the-readings-how-do-i-get-through-them)
+17. [I'm stuck on floats! Can I just use Flexbox and Grid instead?](#im-stuck-on-floats-can-i-just-use-flexbox-and-grid-instead)
+18. [How do I put my Codewars katas on Github?](#how-do-i-put-my-codewars-katas-on-github)
+19. [I have old katas I didn't upload to Github. How do I backdate git commits?](#i-have-old-katas-i-didnt-upload-to-github-how-do-i-backdate-git-commits)
+20. [How do I get Github green squares for private repositories?](#how-do-i-get-github-green-squares-for-private-repositories)
 
 
 
@@ -80,6 +81,26 @@ Originally there were houses for different levels of commitment to the program, 
 Check the Catchup Crew channel on Discord, every 2-4 weeks someone makes a new study group for members who have recently joined. If there's no recent group, go ahead and make one and invite others to join!
 
 There is also the [Catchup Crew Google Sheet](https://docs.google.com/spreadsheets/d/1oZRvtvaP6AF0sxAn4dMZoDgR0AEntQvR0zJhNTixNhc/edit#gid=0) to keep track of where people are in the program, but it requires people to manually update as they progress, so it may not be accurate.
+
+## How should I make my Anki cards? Is there any premade deck I can use?
+
+**First a word of warning: Make sure you are using [Anki](https://apps.ankiweb.net/), [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en&gl=US), or [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) (unfortunately this one is not free and has a rather hefty price tag), NOT Anki App. Anki App is a copycat that is not affiliated with the Anki project and it is not compatible with Ankiw.**
+
+What you add to your deck is a personal decision based on what exactly you need to review, but in general, you will want to use Anki for important things you might forget or that feel complex and you need more review of the concepts. A lot of the early code will become familiar quickly because you'll be using it so much. And some things you encounter will be used so rarely you can just look them up when you need them. 
+
+As for what to put on each card, try to keep questions and answers short and simple. Ideally each card should deal with exactly one fact/concept. Break up more complex topics into smaller pieces where possible. The type-in answer option is great for coding questions.
+
+Once you get to Codewars, it's recommended that if you attempt a challenge and can't complete it after 20 min or so, you should check the solutions and add it to your Anki deck for review.
+
+It is highly, highly recommended that you make your own Anki deck. Not only will it ensure that the questions and answers are customized to your needs, the process of making the cards is an excellent form of review in itself. If you use a premade deck, you're missing out on that learning opportunity.
+
+Having said that, some people like to see what others have done just to get ideas for their own deck. A few resources are available:
+
+[Anki Deck SE](https://github.com/mac-kenzie-lee/ankiDeckSE): this is not a deck specific to 100Devs, rather a template for more attractive cards that was made by a 100Devs member.
+
+[!00Devs Anki Deck](https://github.com/abhisheknage/100Devs-Anki-Deck): this is a deck a 100Devs member shared. Again, I caution you to use it only for reference for how you might make your own cards.
+
+[Banki Answers](https://github.com/curtisbarnard/BANKI): this one is not specifically for Anki, it's actually a template for filling out your Banki answers, with a completed version you can use for inspiration if necessary.
 
 
 ## Should I check in on Twitter for classes that happened months ago?
