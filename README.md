@@ -18,12 +18,13 @@ Welcome new 100Devs members! Getting started can be a little confusing, so I dec
 12. [I need solutions for XX homework. Where can I find them?](#i-need-solutions-for-xx-homework-where-can-i-find-them)
 13. [I already know XX. Should I start from Class 1? Can I get verified if I don't do all the classes?](#i-already-know-xx-should-i-start-from-class-1-can-i-get-verified-if-i-dont-do-all-the-classes)
 14. [I missed some of the early check-ins or homework, do I need to go back and do them?](#i-missed-some-of-the-early-check-ins-or-homework-do-i-need-to-go-back-and-do-them)
-15. [Where are the missing classes?](#where-are-the-missing-classes)
-16. [I'm stuck on the readings! How do I get through them?](#im-stuck-on-the-readings-how-do-i-get-through-them)
-17. [I'm stuck on floats! Can I just use Flexbox and Grid instead?](#im-stuck-on-floats-can-i-just-use-flexbox-and-grid-instead)
-18. [How do I put my Codewars katas on Github?](#how-do-i-put-my-codewars-katas-on-github)
-19. [I have old katas I didn't upload to Github. How do I backdate git commits?](#i-have-old-katas-i-didnt-upload-to-github-how-do-i-backdate-git-commits)
-20. [How do I get Github green squares for private repositories?](#how-do-i-get-github-green-squares-for-private-repositories)
+15. [What exactly do I need to do for verification?](#what-exactly-do-i-need-to-do-for-verification)
+16. [Where are the missing classes?](#where-are-the-missing-classes)
+17. [I'm stuck on the readings! How do I get through them?](#im-stuck-on-the-readings-how-do-i-get-through-them)
+18. [I'm stuck on floats! Can I just use Flexbox and Grid instead?](#im-stuck-on-floats-can-i-just-use-flexbox-and-grid-instead)
+19. [How do I put my Codewars katas on Github?](#how-do-i-put-my-codewars-katas-on-github)
+20. [I have old katas I didn't upload to Github. How do I backdate git commits?](#i-have-old-katas-i-didnt-upload-to-github-how-do-i-backdate-git-commits)
+21. [How do I get Github green squares for private repositories?](#how-do-i-get-github-green-squares-for-private-repositories)
 
 
 
@@ -129,6 +130,8 @@ Most homework does not have provided solutions. If you build something and it lo
 
 ## I already know XX. Should I start from Class 1? Can I get verified if I don't do all the classes?
 
+Definitely watch class 1 and do the homework, even if you intend to skip ahead. *Learning How to Learn* is extremely important.
+
 I personally think it's worth starting from the beginning, even if you have some experience already. If you decide to start from the beginning but some material is familiar, you can watch classes on 1.5x or 2x, or skip sections you don't need. But it's not necessary to do so, the choice is yours. You can still get verification if you don't do the early homework; Leon annouced a clean slate in class 32, so anything you missed before that will be forgiven.
 
 If you already know some topics well, you can skip the earliest classes. A popular entry point in that case is the [Javascript Super Review](https://www.youtube.com/watch?v=AkXLGS57MS4) (after class 18). 
@@ -151,6 +154,26 @@ Leon announced a fresh start in class 32, so anything you missed before then, yo
 1. the course is completely free and takes a significant amount of effort on Leon's part
 2. he asks you to check-in to help increase the reach of the course
 3. the homework is your skills training, so even if you don't submit it you should still do it
+
+## What exactly do I need to do for verification?
+
+Vertification is still being hashed out and is currently only available at certain times (this is expected to change in the future), but based on the Huntober submission form that was recently released, Leon will ask for the following:
+
+- Bio blurb
+- Github profile (make sure you've got your green squares)
+- Codewars profile (make sure you've got plenty of completed katas)
+- Screenshot of Anki deck (make sure you've been creating and reviewing cards)
+- Angellist profile
+- Portfolio
+- Twitter account (make sure you've done all the class check-ins)
+- Cover letter and cover email
+- Resume
+- Linkedin profile
+- Hitlist/Networking Sheet (These can be one document or separate. Leon asks that you do networking weekly, so your networking sheet should have an appropriate number of connections and coffee chats)
+- Binary Upload Boom group project 
+- Information on a paid client (amount earned and website) OR organization you volunteered for OR approved pull request on open source project (must be a real contribution, not a 'first contribution' like fixing a typo)
+- repo for completed MVP (first draft of full stack application)
+- link to hosted MVP if available
 
 
 ## Where are the missing classes?
