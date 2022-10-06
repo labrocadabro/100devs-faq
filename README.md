@@ -174,6 +174,7 @@ Vertification is still being hashed out and is currently only available at certa
 - Information on a paid client (amount earned and website) OR organization you volunteered for OR approved pull request on open source project (must be a real contribution, not a 'first contribution' like fixing a typo)
 - repo for completed MVP (first draft of full stack application)
 - link to hosted MVP if available
+- and it's not mentioned on the Huntober form but make sure you've submitted all the homework from class 32 onward
 
 
 ## Where are the missing classes?
