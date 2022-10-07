@@ -172,8 +172,8 @@ Vertification is still being hashed out and is currently only available at certa
 - Hitlist/Networking Sheet (These can be one document or separate. Leon asks that you do networking weekly, so your networking sheet should have an appropriate number of connections and coffee chats)
 - Binary Upload Boom group project 
 - Information on a paid client (amount earned and website) OR organization you volunteered for OR approved pull request on open source project (must be a real contribution, not a 'first contribution' like fixing a typo)
-- repo for completed MVP (first draft of full stack application)
-- link to hosted MVP if available
+- repo for completed 100 hours project (for the first wave this was just the MVP but Leon has said that going forward you will need to have the project complete)
+- link to hosted 100h project if available (this may become mandatory once Leon has covered an alternative to Heroku)
 - and it's not mentioned on the Huntober form but make sure you've submitted all the homework from class 32 onward
 
 
