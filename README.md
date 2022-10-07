@@ -157,7 +157,7 @@ Leon announced a fresh start in class 32, so anything you missed before then, yo
 
 ## What exactly do I need to do for verification?
 
-Vertification is still being hashed out and is currently only available at certain times (this is expected to change in the future), but based on the Huntober submission form that was recently released, Leon will ask for the following:
+Vertification is still being hashed out and is currently only available at certain times (this is expected to change in the future). The next wave of verifications is expected to have a due date of Nov 1, 2022 but future waves are planned. Based on the Huntober submission form that was recently released, Leon will ask for the following:
 
 - Bio blurb
 - Github profile (make sure you've got your green squares)
