@@ -69,7 +69,13 @@ And join the [Discord](https://leonnoel.com/discord)! There are so many people t
 
 ## Am I too late? Should I wait for the next cohort?
 
-The first cohort was conducted in 2021; we are currently nearing the end of the second cohort. However, you're not too late! New people are joining every day, and Leon is working on systems to ensure that we can complete the course even after live classes have ended. As far as the next cohort goes, Leon has said he would like to do another, but nothing has been confirmed yet.
+The first cohort was conducted in 2021; we are currently nearing the end of the second cohort. However, you're not too late! New people are joining every day, and Leon is working on systems to ensure that we can complete the course even after live classes have ended. 
+
+Recently (beginning of Oct 2022) Leon has made comments that he's not sure he wants to do a third beginner bootcamp, as he has done two already and the content from both cohorts is available for anyone to access at any time. He has suggested that what he might do instead is a different course with more advanced material, covering the topics needed to advance from junior to senior dev.
+
+Additioanlly, waiting means not learning. If another cohort does start and you've been going through the catchup material, you'll have a head start.
+
+In other words, start now and don't wait for a hypothetical future cohort!
 
 
 ## How do I join a house?
