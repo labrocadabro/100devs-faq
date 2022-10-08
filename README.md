@@ -1,4 +1,4 @@
-# 100devs Catchup Crew FAQ
+# 100Devs Catchup Crew FAQ
 
 Welcome new 100Devs members! Getting started can be a little confusing, so I decided to write a guide to help you get situated. :)
 
