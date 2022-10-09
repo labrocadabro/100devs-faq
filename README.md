@@ -8,23 +8,24 @@ Welcome new 100Devs members! Getting started can be a little confusing, so I dec
 2. [How does it work?](#how-does-it-work)
 3. [How do I get started?](#how-do-i-get-started)
 4. [Am I too late? Should I wait for the next cohort?](#am-i-too-late-should-i-wait-for-the-next-cohort)
-5. [How do I join a house?](#how-do-i-join-a-house)
-6. [How do I find an accountability buddy or study group?](#how-do-i-find-an-accountability-buddy-or-study-group)
-7. [How should I make my Anki cards? Is there any premade deck I can use?](#how-should-i-make-my-anki-cards-is-there-any-premade-deck-i-can-use)
-8. [Should I check in on Twitter for classes that happened months ago?](#should-i-check-in-on-twitter-for-classes-that-happened-months-ago)
-9. [Where are the check-in links?](#where-are-the-check-in-links)
-10. [Are the office hours videos still avalable?](#are-the-office-hours-videos-still-avalable)
-11. [I'm doing all the homework, but should I submit it? Will anyone check it?](#im-doing-all-the-homework-but-should-i-submit-it-will-anyone-check-it)
-12. [I need solutions for XX homework. Where can I find them?](#i-need-solutions-for-xx-homework-where-can-i-find-them)
-13. [I already know XX. Should I start from Class 1? Can I get verified if I don't do all the classes?](#i-already-know-xx-should-i-start-from-class-1-can-i-get-verified-if-i-dont-do-all-the-classes)
-14. [I missed some of the early check-ins or homework, do I need to go back and do them?](#i-missed-some-of-the-early-check-ins-or-homework-do-i-need-to-go-back-and-do-them)
-15. [What exactly do I need to do for verification?](#what-exactly-do-i-need-to-do-for-verification)
-16. [Where are the missing classes?](#where-are-the-missing-classes)
-17. [I'm stuck on the readings! How do I get through them?](#im-stuck-on-the-readings-how-do-i-get-through-them)
-18. [I'm stuck on floats! Can I just use Flexbox and Grid instead?](#im-stuck-on-floats-can-i-just-use-flexbox-and-grid-instead)
-19. [How do I put my Codewars katas on Github?](#how-do-i-put-my-codewars-katas-on-github)
-20. [I have old katas I didn't upload to Github. How do I backdate git commits?](#i-have-old-katas-i-didnt-upload-to-github-how-do-i-backdate-git-commits)
-21. [How do I get Github green squares for private repositories?](#how-do-i-get-github-green-squares-for-private-repositories)
+5. [Will the content be taken down at some point? Do I need to worry about losing access?](will-the-content-be-taken-down-at-some-point-do-i-need-to-worry-about-losing-access)
+6. [How do I join a house?](#how-do-i-join-a-house)
+7. [How do I find an accountability buddy or study group?](#how-do-i-find-an-accountability-buddy-or-study-group)
+8. [How should I make my Anki cards? Is there any premade deck I can use?](#how-should-i-make-my-anki-cards-is-there-any-premade-deck-i-can-use)
+9. [Should I check in on Twitter for classes that happened months ago?](#should-i-check-in-on-twitter-for-classes-that-happened-months-ago)
+10. [Where are the check-in links?](#where-are-the-check-in-links)
+11. [Are the office hours videos still avalable?](#are-the-office-hours-videos-still-avalable)
+12. [I'm doing all the homework, but should I submit it? Will anyone check it?](#im-doing-all-the-homework-but-should-i-submit-it-will-anyone-check-it)
+13. [I need solutions for XX homework. Where can I find them?](#i-need-solutions-for-xx-homework-where-can-i-find-them)
+14. [I already know XX. Should I start from Class 1? Can I get verified if I don't do all the classes?](#i-already-know-xx-should-i-start-from-class-1-can-i-get-verified-if-i-dont-do-all-the-classes)
+15. [I missed some of the early check-ins or homework, do I need to go back and do them?](#i-missed-some-of-the-early-check-ins-or-homework-do-i-need-to-go-back-and-do-them)
+16. [What exactly do I need to do for verification?](#what-exactly-do-i-need-to-do-for-verification)
+17. [Where are the missing classes?](#where-are-the-missing-classes)
+18. [I'm stuck on the readings! How do I get through them?](#im-stuck-on-the-readings-how-do-i-get-through-them)
+19. [I'm stuck on floats! Can I just use Flexbox and Grid instead?](#im-stuck-on-floats-can-i-just-use-flexbox-and-grid-instead)
+20. [How do I put my Codewars katas on Github?](#how-do-i-put-my-codewars-katas-on-github)
+21. [I have old katas I didn't upload to Github. How do I backdate git commits?](#i-have-old-katas-i-didnt-upload-to-github-how-do-i-backdate-git-commits)
+22. [How do I get Github green squares for private repositories?](#how-do-i-get-github-green-squares-for-private-repositories)
 
 
 
@@ -77,6 +78,11 @@ Additionally, waiting means not learning. There's no reason to delay!  And if an
 
 In other words, start now and don't wait for a hypothetical future cohort!
 
+## Will the content be taken down at some point? Do I need to worry about losing access?
+
+Leon has said he'll keep the content up on Youtube permanently, and he's also looking into adding open source/open content licenses to everything. 
+
+The community-made resources are a little trickier, but most people have hosted their resources on free services that are unllikely to disappear (Github, Google Docs, etc). And while these are often very useful, they're never necessary.
 
 ## How do I join a house?
 
