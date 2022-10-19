@@ -63,6 +63,10 @@ The classes are on [Youtube](https://www.youtube.com/playlist?list=PLBf-QcbaigsJ
 
 - [Leon Stream Scripts](https://leonstreamscripts.herokuapp.com): searchable Youtube subtitles. Extremely useful when you remember something was mentioned but you forget which class. As of Sept 19, 2022: up to date to the latest Youtube class (47).
 
+- [100Devs Course List](https://winchy82dev.notion.site/12268a73ea854ae9bff22660d8a42274?v=403f5589c3734d09a3874648dfcb86fa): A notion site that is up to date to class 59.
+
+- [Learn with Leon #100Devs Bootcamp 2022](https://docs.google.com/spreadsheets/d/1wyxTkcpVuz6hjc-LF734gEYxQN6DY95XEXQx7tEJm1E/edit#gid=0) - A Google Docs spreadsheet that is up to date to class 61.
+
 ![Leon Stream Scripts Screenshot](./photos/stream-scripts.png)
 
 And join the [Discord](https://leonnoel.com/discord)! There are so many people there willing to help with any questions you have, big or small.
