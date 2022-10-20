@@ -38,7 +38,7 @@ Welcome new 100Devs members! Getting started can be a little confusing, so I dec
 
 100Devs is a diverse and inclusive community of 1000s of participants in a training program run by [Leon Noel](https://leonnoel.com/). It is 100% free and requires absolutely no previous technical experience. 
 
-As Leon says, 'this is not a tech bootcamp, this is a how to get a job bootcamp'. While the course does teach the necessary technical skills to ge a job as a full stack developer, it's unique because it also covers networking, resumes, job applications, the interview process, and freelancing. Even if you're already technically proficient but you're struggling to find a job, you'll find value here.
+As Leon says, 'this is not a tech bootcamp, this is a how to get a job bootcamp'. While the course does teach the necessary technical skills to get a job as a full stack developer, it's unique because it also covers networking, resumes, job applications, the interview process, and freelancing. Even if you're already technically proficient but you're struggling to find a job, you'll find value here.
 
 
 ## How does it work?
@@ -54,23 +54,25 @@ The material is also self-directed. You get out what you put in, and that means 
 
 The classes are on [Youtube](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S) and the follow along materials and homework assignments are available on the [Discord](https://leonnoel.com/discord). Tracking the classes and materials from Discord can be difficult, though, so I recommend you check out these community-made resources to make the process easier (there are a few others but these are the ones that are up to date):
 
-- [100Devs Follow Along](https://100devsfollowalong.netlify.app/): Class videos and links to slides and class/homework materials. Updates when the videos are uploaded on Youtube. As of Sept 19, 2022: up to date until class 47 (latest on Youtube).
+- [Community Taught](https://communitytaught.org/): A full class and homework tracker (made by me!). Includes slides, follow-along materials, and check-in links as well as direct links to relevant homework materials. As of Oct 20, 2022: up to date until class 63 (latest).
+
+- [100Devs Follow Along](https://100devsfollowalong.netlify.app/): Class videos and links to slides and class/homework materials. Updates when the videos are uploaded on Youtube. Includes slides and follow-along materials. As of Oct 20, 2022: up to date until class 52 (latest on Youtube).
 
 ![100Devs Follow Along Screenshot](./photos/follow-along.png)
 
-- [100 Devs Homework Checklist](https://docs.google.com/document/d/177Ls9QS5ryjPBi82cjDnbtse5Of0RFl8/edit): A Google Docs version. No links to materials, but does have classes and homework. As of Sept 19, 2022: up to date to the latest class (55) and includes time-sensitive Huntober deadlines.
+- [100 Devs Homework Checklist](https://docs.google.com/document/d/177Ls9QS5ryjPBi82cjDnbtse5Of0RFl8/edit): A Google Docs checklist. Includes check-in links, but no slides or follow-along materials. As of Oct 20, 2022: up to date to class 60.
 
 ![100 Devs Homework Checklist Screenshot](./photos/homework-checklist.png)
 
-- [100 Devs Homework Tracker](https://labrocadabro.github.io/100devs-hw-tracker/): A web-based tool (made by me!) that focuses specifically on homework tracking. Contains links to relevant homework materials but no classes or class materials. As of Sept 19, 2022: up to date to the latest class (55) but does not include Huntober deadlines.
+- [100 Devs Homework Tracker](https://labrocadabro.github.io/100devs-hw-tracker/): A web-based tool (made by me!) that focuses specifically on homework tracking, so no slides, check-in links, or follow-along maerials, but does have links to relevant homework materials. As of Oct 20, 2022: up to date to class 63 (latest).
 
 ![100 Devs Homework Tracker Screenshot](./photos/homework-tracker.png)
 
+- [100Devs Course List](https://winchy82dev.notion.site/12268a73ea854ae9bff22660d8a42274?v=403f5589c3734d09a3874648dfcb86fa): A notion site that includes classes and homework. Has slides and follow-along materials, but no check-in links. As of Oct 20, 2022: up to date to class 59.
+
+- [Learn with Leon #100Devs Bootcamp 2022](https://docs.google.com/spreadsheets/d/1wyxTkcpVuz6hjc-LF734gEYxQN6DY95XEXQx7tEJm1E/edit#gid=0) - A Google Docs spreadsheet that covers classea and homework. Includes slides but no follow-along materials or check-in links. As of Oct 20, 2022: up to date to class 61.
+
 - [Leon Stream Scripts](https://leonstreamscripts.herokuapp.com): searchable Youtube subtitles. Extremely useful when you remember something was mentioned but you forget which class. As of Sept 19, 2022: up to date to the latest Youtube class (47).
-
-- [100Devs Course List](https://winchy82dev.notion.site/12268a73ea854ae9bff22660d8a42274?v=403f5589c3734d09a3874648dfcb86fa): A notion site that is up to date to class 59.
-
-- [Learn with Leon #100Devs Bootcamp 2022](https://docs.google.com/spreadsheets/d/1wyxTkcpVuz6hjc-LF734gEYxQN6DY95XEXQx7tEJm1E/edit#gid=0) - A Google Docs spreadsheet that is up to date to class 61.
 
 ![Leon Stream Scripts Screenshot](./photos/stream-scripts.png)
 
@@ -89,13 +91,13 @@ In other words, start now and don't wait for a hypothetical future cohort!
 
 ## Will the content be taken down at some point? Do I need to worry about losing access?
 
-Leon has said he'll keep the content up on Youtube permanently, and he's also looking into adding open source/open content licenses to everything. 
+Leon has said he'll keep the content up on Youtube permanently, and he's also looking into adding open source/open content licenses to everything.
 
-The community-made resources are a little trickier, but most people have hosted their resources on free services that are unllikely to disappear (Github, Google Docs, etc). And while these are often very useful, they're never necessary.
+The community-made resources are a little trickier, but most people have hosted their resources on free services that are unllikely to disappear (Github, Google Docs, etc). I am committed to keeping my progress tracker up as long as 100Devs exists. And while these are often very useful, they're never necessary.
 
 ## How do I join a house?
 
-Originally there were houses for different levels of commitment to the program, but this cohort exploded in popularity and the houses were dropped early on. 
+Originally there were houses for different levels of commitment to the program, but this cohort exploded in popularity and the houses were dropped early on. House Turing was re-introduced for Huntober but its importance is minimal and it is currently unavailable to new applicants.
 
 
 ## How do I find an accountability buddy or study group?
@@ -106,7 +108,7 @@ There is also the [Catchup Crew Google Sheet](https://docs.google.com/spreadshee
 
 ## How should I make my Anki cards? Is there any premade deck I can use?
 
-**First a word of warning: Make sure you are using [Anki](https://apps.ankiweb.net/), [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en&gl=US), or [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) (unfortunately this one is not free and has a rather hefty price tag), NOT Anki App. Anki App is a copycat that is not affiliated with the Anki project and it is not compatible with Ankiw.**
+**First a word of warning: Make sure you are using [Anki](https://apps.ankiweb.net/), [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en&gl=US), or [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) (unfortunately this one is not free and Leon recommends using the web version of Anki instead), NOT Anki App. Anki App is a copycat that is not affiliated with the Anki project and it is not compatible with Ankiw.**
 
 What you add to your deck is a personal decision based on what exactly you need to review, but in general, you will want to use Anki for important things you might forget or that feel complex and you need more review of the concepts. A lot of the early code will become familiar quickly because you'll be using it so much. And some things you encounter will be used so rarely you can just look them up when you need them. 
 
@@ -131,7 +133,7 @@ Yes. Check in for each class as you watch it. It's one of the requirements that 
 
 ## Where are the check-in links?
 
-Currently the easiest way to find the check-in links is [this homework checklist](https://docs.google.com/document/d/177Ls9QS5ryjPBi82cjDnbtse5Of0RFl8/edit).
+Currently the easiest way to find the check-in links is [the class listing of my progress tracker](https://communitytaught.org/class/all) but you can also find them in [this homework checklist](https://docs.google.com/document/d/177Ls9QS5ryjPBi82cjDnbtse5Of0RFl8/edit) or in the class announcements on Discord.
 
 
 ## Are the office hours videos still avalable?
