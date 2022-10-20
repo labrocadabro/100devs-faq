@@ -56,7 +56,7 @@ The classes are on [Youtube](https://www.youtube.com/playlist?list=PLBf-QcbaigsJ
 
 - [Community Taught](https://communitytaught.org/): A full class and homework tracker (made by me!). Includes slides, follow-along materials, and check-in links as well as direct links to relevant homework materials. As of Oct 20, 2022: up to date until class 63 (latest).
 
-![100 Devs Homework Checklist Screenshot](./photos/homework-checklist.png)
+![Community Taught Screenshot](./photos/communitytaught.png)
 
 - [100Devs Follow Along](https://100devsfollowalong.netlify.app/): Class videos and links to slides and class/homework materials. Updates when the videos are uploaded on Youtube. Includes slides and follow-along materials. As of Oct 20, 2022: up to date until class 52 (latest on Youtube).
 
