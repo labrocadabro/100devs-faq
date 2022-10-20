@@ -74,7 +74,7 @@ The classes are on [Youtube](https://www.youtube.com/playlist?list=PLBf-QcbaigsJ
 
 - [Learn with Leon #100Devs Bootcamp 2022](https://docs.google.com/spreadsheets/d/1wyxTkcpVuz6hjc-LF734gEYxQN6DY95XEXQx7tEJm1E/edit#gid=0) - A Google Docs spreadsheet that covers classea and homework. Includes slides but no follow-along materials or check-in links. As of Oct 20, 2022: up to date to class 61.
 
-- [Leon Stream Scripts](https://leonstreamscripts.herokuapp.com): searchable Youtube subtitles. Extremely useful when you remember something was mentioned but you forget which class. As of Sept 19, 2022: up to date to the latest Youtube class (47).
+- [Leon Stream Scripts](https://leonstreamscripts.herokuapp.com): searchable Youtube subtitles. Extremely useful when you remember something was mentioned but you forget which class. As of Oct 20, 2022: up to date to the latest Youtube class (47).
 
 ![Leon Stream Scripts Screenshot](./photos/stream-scripts.png)
 
