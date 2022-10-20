@@ -1,5 +1,7 @@
 # 100Devs Catchup Crew FAQ
 
+## [The latest version of the FAQ is available here](https://communitytaught.org/)
+
 Welcome new 100Devs members! Getting started can be a little confusing, so I decided to write a guide to help you get situated. :)
 
 # Table of Contents
