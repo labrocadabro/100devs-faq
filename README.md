@@ -209,9 +209,8 @@ Some classes aren't on Youtube. This is because they weren't regular classes. If
 - Class 17: Networking Night
 - Class 18: Project Night
 - Classes 42 & 43: Welcome Back sessions after a long break
-- Class 48+: Not yet on Youtube
 - Class 49: Catchup for Huntober Prep Work
-
+- Class 53+: Not yet on Youtube
 
 ## I'm stuck on the readings! How do I get through them?
 
