@@ -54,11 +54,11 @@ The material is also self-directed. You get out what you put in, and that means 
 
 The classes are on [Youtube](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S) and the follow along materials and homework assignments are available on the [Discord](https://leonnoel.com/discord). Tracking the classes and materials from Discord can be difficult, though, so I recommend you check out these community-made resources to make the process easier (there are a few others but these are the ones that are up to date):
 
-- [Community Taught](https://communitytaught.org/): A full class and homework tracker (made by me!). Includes slides, follow-along materials, and check-in links as well as direct links to relevant homework materials. As of Oct 20, 2022: up to date until class 63 (latest).
+- [Community Taught](https://communitytaught.org/): A full class and homework tracker (made by me!). Includes slides, follow-along materials, and check-in links as well as direct links to relevant homework materials. Shows homework assigned/due for each class. As of Oct 20, 2022: up to date until class 63 (latest).
 
 ![Community Taught Screenshot](./photos/communitytaught.png)
 
-- [100Devs Follow Along](https://100devsfollowalong.netlify.app/): Class videos and links to slides and class/homework materials. Updates when the videos are uploaded on Youtube. Includes slides and follow-along materials. As of Oct 20, 2022: up to date until class 52 (latest on Youtube).
+- [100Devs Follow Along](https://100devsfollowalong.netlify.app/): Class videos and links to slides and follow-along materials. No check-in links. Shows homework assigned/due for each class. Updates when the videos are uploaded on Youtube. Includes slides and follow-along materials. As of Oct 20, 2022: up to date until class 52 (latest on Youtube).
 
 ![100Devs Follow Along Screenshot](./photos/follow-along.png)
 
