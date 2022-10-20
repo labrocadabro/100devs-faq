@@ -1,12 +1,13 @@
 # 100Devs Catchup Crew FAQ
 
+Welcome new 100Devs members! Getting started can be a little confusing, so I decided to write a guide to help you get situated. :)
+
 ## Fancy HTML Version
 
 [The HTML version of the FAQ is available here](https://communitytaught.org/resources/faq)
 
-Welcome new 100Devs members! Getting started can be a little confusing, so I decided to write a guide to help you get situated. :)
 
-# Table of Contents
+## Table of Contents
 
 1. [What is 100Devs?](#what-is-100devs)
 2. [How does it work?](#how-does-it-work)
