@@ -1,4 +1,8 @@
-# 100Devs Catchup Crew FAQ
+## PLEASE NOTE
+
+This FAQ is no longer maintained. It is now [part of Community Taught](https://communitytaught.org/resources/faq) and any suggestions for improvements or updates should be directed there instead.
+
+## 100Devs Catchup Crew FAQ
 
 Welcome new 100Devs members! Getting started can be a little confusing, so I decided to write a guide to help you get situated. :)
 
